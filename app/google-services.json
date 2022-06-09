@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "152955050605",
+    "project_id": "chatapplication-c6713",
+    "storage_bucket": "chatapplication-c6713.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152955050605:android:7179a479276554673f7d64",
+        "android_client_info": {
+          "package_name": "com.petros.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152955050605-hlc4rlp6n03pflak0vuvv5t3gauonosr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfSyuiw6S9Z9fs8-v9S9ugP6DdRvL1Eho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152955050605-hlc4rlp6n03pflak0vuvv5t3gauonosr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
